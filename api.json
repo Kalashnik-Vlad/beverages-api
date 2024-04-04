@@ -1,144 +1,104 @@
 {
 "request": [
 {
-"protein": 14,
-"calories": 300,
-"price": 8.99,
-"description": "This perfectly thin cut just melts in your mouth.",
+"protein": 180,
+"calories": 130,
+"price": 4.36,
+"description": "Indulge in the rich flavors of espresso and frothy milk in every sip of our classic cappuccino.",
 "carbs": 0,
 "id": 1,
-"name": "Asian Flank Steak",
+"name": "Cappuccino",
 "imageURL": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?q=80&w=2735&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
-"protein": 4,
-"calories": 450,
-"description": "Seasoned shrimp from the depths of the Atlantic Ocean.",
-"price": 6.99,
+"protein": 250,
+"calories":  71,
+"description": "Savor the smooth and creamy texture of our latte, made with freshly brewed espresso and steamed milk.",
+"price": 3.26,
 "carbs": 3,
 "id": 2,
-"name": "Blackened Shrimp",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/blackened-shrimp.jpg"
+"name": "Latte",
+"imageURL": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
-"protein": 5,
-"calories": 800,
-"price": 7.49,
+"protein": 250,
+"calories": 85,
+"price": 5.25,
 "id": 3,
 "carbs": 22,
-"description": "The tasty bites of chicken have just the right amount of kick to them.",
-"name": "Buffalo Chicken Bites",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/buffalo-chicken-bites.jpg"
+"description": "Experience the vibrant green tea flavors of our matcha latte, a perfect blend of matcha powder and steamed milk.",
+"name": "Matcha Latte",
+"imageURL": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
-"protein": 7,
-"calories": 480,
-"price": 12.99,
-"description": "These won't last 10 seconds once they hit the table.",
+"protein": 300,
+"calories": 90,
+"price": 5.30,
+"description": "Our refreshing smoothie is a delicious blend of fruits and yogurt, perfect for a quick and healthy treat.",
 "id": 4,
 "carbs": 19,
-"name": "Chicken Avocado Spring Roll",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-avocado-spring-roll.jpg"
+"name": "Smoothie",
+"imageURL": "https://images.unsplash.com/photo-1570696516188-ade861b84a49?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
-"protein": 4,
-"calories": 580,
-"price": 8.99,
+"protein": 250,
+"calories": 3,
+"price": 1.50,
 "id": 5,
 "carbs": 14,
-"description": "It's really hard to keep coming up with these descriptions.",
-"name": "Chicken Dumplings",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-dumplings.jpg"
+"description": "Enjoy the comforting warmth of our tea, made by steeping the finest dried tea leaves in hot water.",
+"name": "Tea",
+"imageURL": "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
-"protein": 9,
-"calories": 675,
-"description": "You can never go wrong with some good tenders.",
+"protein": 30,
+"calories": 3,
+"description": "Kickstart your day with the bold and intense flavors of our espresso, made with finely ground coffee beans and hot water.",
 "id": 6,
 "carbs": 5,
-"price": 9.99,
-"name": "Chicken Fingers",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-fingers.jpg"
+"price": 2.0,
+"name": "Espresso",
+"imageURL": "https://images.unsplash.com/photo-1661989770233-e84b8c46d1f2?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
-"protein": 13,
-"calories": 700,
-"description": "You'll need extra napkins with these tasty treats.",
+"protein": 250,
+"calories": 194,
+"description": "Indulge in the rich and velvety smoothness of our hot chocolate, made with cocoa powder, sugar, and steamed milk.",
 "id": 7,
 "carbs": 11,
-"price": 11.49,
-"name": "Chicken Wings",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-wings.jpg"
+"price": 5.0,
+"name": "Hot Chocolate",
+"imageURL": "https://images.unsplash.com/photo-1517578239113-b03992dcdd25?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
-"protein": 2,
-"calories": 415,
-"price": 8.29,
+"protein": 250,
+"calories": 80,
+"price": 3.50,
 "id": 8,
 "carbs": 29,
-"description": "I'm getting soooo hungry building this app...",
-"name": "Fried Cheese Ravioli",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/fried-cheese-ravioli.jpg"
+"description": "Cool off with our refreshing iced coffee, served over ice for a perfect summer drink.",
+"name": "Iced Coffee",
+"imageURL": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
-"protein": 3,
-"calories": 625,
-"price": 13.99,
+"protein": 250,
+"calories": 91,
+"price": 2.50,
 "id": 9,
-"description": "Scrumptious tots with a side of ranch.",
+"description": "Beat the heat with our refreshing iced tea, available in a variety of flavors to suit your taste buds.",
 "carbs": 40,
-"name": "Jumbo Tater Tots",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/jumbo-tater-tot.jpg"
+"name": "Iced Tea",
+"imageURL": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?q=80&w=2728&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },
 {
-"protein": 33,
-"calories": 500,
-"description": "It's a spiiiiicy meat-a-ball!",
-"price": 12.99,
+"protein": 500,
+"calories": 0,
+"description": "Stay hydrated with our refreshing water, essential for maintaining your well-being.",
+"price": 2.0,
 "id": 10,
 "carbs": 2,
-"name": "Meatballs",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/meatballs.jpg"
-},
-{
-"protein": 2,
-"calories": 930,
-"description": "The best appetizer there is.\nDon't @ me.",
-"id": 11,
-"carbs": 32,
-"price": 6.99,
-"name": "Mozzarella Sticks",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/mozzarella-sticks.jpg"
-},
-{
-"protein": 28,
-"calories": 725,
-"price": 10.99,
-"id": 12,
-"description": "These look incredible. That's it. That's the description.",
-"carbs": 28,
-"name": "Philly Cheesesteak Sliders",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/philly-cheesesteak-sliders.jpg"
-},
-{
-"protein": 2,
-"calories": 270,
-"description": "How did these even make the menu???",
-"price": 5.99,
-"carbs": 4,
-"id": 13,
-"name": "Rainbow Spring Rolls",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/rainbow-spring-rolls.jpg"
-},
-{
-"protein": 4,
-"calories": 850,
-"description": "I'm getting hungrier just looking at these.",
-"id": 14,
-"carbs": 42,
-"price": 12.49,
-"name": "Stuffed Shells",
-"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/stuff-shells.jpg"
+"name": "Water",
+"imageURL": "https://images.unsplash.com/photo-1616556425595-93db848a50c7?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 }
 ]
 }
