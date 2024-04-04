@@ -1,104 +1,144 @@
 {
-  "request": [
-    {
-      "protein": 0,
-      "calories": 300,
-      "price": 8.99,
-      "description": "This perfectly thin cut just melts in your mouth.",
-      "carbs": 0,
-      "id": 1,
-      "name": "Cappuccino",
-      "imageURL": ""
-    },
-    {
-      "protein": 0,
-      "calories": 450,
-      "carbs": 3,
-      "price": 6.99,
-      "id": 2,
-      "name": "Latte",
-      "description": "A smooth and creamy coffee drink made with espresso and steamed milk.",
-      "imageURL": ""
-    },
-    {
-      "protein": 0,
-      "calories": 800,
-      "carbs": 22,
-      "price": 7.49,
-      "id": 3,
-      "name": "Matcha Latte",
-      "description": "A trendy green tea drink made with matcha powder and steamed milk.",
-      "imageURL": ""
-    },
-    {
-      "protein": 0,
-      "calories": 480,
-      "carbs": 19,
-      "price": 12.99,
-      "description": "These won't last 10 seconds once they hit the table.",
-      "id": 4,
-      "name": "Smoothie",
-      "imageURL": ""
-    },
-    {
-      "protein": 0,
-      "calories": 580,
-      "carbs": 14,
-      "price": 8.99,
-      "id": 5,
-      "name": "Tea",
-      "description": "A hot or cold beverage made by steeping dried tea leaves in water.",
-      "imageURL": ""
-    },
-    {
-      "protein": 0,
-      "calories": 675,
-      "carbs": 5,
-      "price": 9.99,
-      "description": "Refreshing and essential for hydration.",
-      "id": 6,
-      "name": "Water",
-      "imageURL": ""
-    },
-    {
-      "protein": 0,
-      "calories": 700,
-      "carbs": 11,
-      "price": 11.49,
-      "id": 7,
-      "name": "Espresso",
-      "description": "A strong and concentrated coffee drink made by forcing hot water through finely ground coffee beans.",
-      "imageURL": ""
-    },
-    {
-      "protein": 0,
-      "calories": 415,
-      "carbs": 29,
-      "price": 8.29,
-      "id": 8,
-      "name": "Hot Chocolate",
-      "description": "A sweet and comforting drink made with cocoa powder, sugar, and milk.",
-      "imageURL": ""
-    },
-    {
-      "protein": 0,
-      "calories": 625,
-      "carbs": 40,
-      "price": 13.99,
-      "id": 9,
-      "name": "Iced Coffee",
-      "description": "Chilled coffee served over ice, perfect for a hot day.",
-      "imageURL": ""
-    },
-    {
-      "protein": 0,
-      "calories": 500,
-      "carbs": 2,
-      "price": 12.99,
-      "id": 10,
-      "name": "Iced Tea",
-      "description": "Chilled tea served over ice, available in various flavors.",
-      "imageURL": ""
-    }
-  ]
+"request": [
+{
+"protein": 14,
+"calories": 300,
+"price": 8.99,
+"description": "This perfectly thin cut just melts in your mouth.",
+"carbs": 0,
+"id": 1,
+"name": "Asian Flank Steak",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/asian-flank-steak.jpg"
+},
+{
+"protein": 4,
+"calories": 450,
+"description": "Seasoned shrimp from the depths of the Atlantic Ocean.",
+"price": 6.99,
+"carbs": 3,
+"id": 2,
+"name": "Blackened Shrimp",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/blackened-shrimp.jpg"
+},
+{
+"protein": 5,
+"calories": 800,
+"price": 7.49,
+"id": 3,
+"carbs": 22,
+"description": "The tasty bites of chicken have just the right amount of kick to them.",
+"name": "Buffalo Chicken Bites",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/buffalo-chicken-bites.jpg"
+},
+{
+"protein": 7,
+"calories": 480,
+"price": 12.99,
+"description": "These won't last 10 seconds once they hit the table.",
+"id": 4,
+"carbs": 19,
+"name": "Chicken Avocado Spring Roll",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-avocado-spring-roll.jpg"
+},
+{
+"protein": 4,
+"calories": 580,
+"price": 8.99,
+"id": 5,
+"carbs": 14,
+"description": "It's really hard to keep coming up with these descriptions.",
+"name": "Chicken Dumplings",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-dumplings.jpg"
+},
+{
+"protein": 9,
+"calories": 675,
+"description": "You can never go wrong with some good tenders.",
+"id": 6,
+"carbs": 5,
+"price": 9.99,
+"name": "Chicken Fingers",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-fingers.jpg"
+},
+{
+"protein": 13,
+"calories": 700,
+"description": "You'll need extra napkins with these tasty treats.",
+"id": 7,
+"carbs": 11,
+"price": 11.49,
+"name": "Chicken Wings",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-wings.jpg"
+},
+{
+"protein": 2,
+"calories": 415,
+"price": 8.29,
+"id": 8,
+"carbs": 29,
+"description": "I'm getting soooo hungry building this app...",
+"name": "Fried Cheese Ravioli",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/fried-cheese-ravioli.jpg"
+},
+{
+"protein": 3,
+"calories": 625,
+"price": 13.99,
+"id": 9,
+"description": "Scrumptious tots with a side of ranch.",
+"carbs": 40,
+"name": "Jumbo Tater Tots",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/jumbo-tater-tot.jpg"
+},
+{
+"protein": 33,
+"calories": 500,
+"description": "It's a spiiiiicy meat-a-ball!",
+"price": 12.99,
+"id": 10,
+"carbs": 2,
+"name": "Meatballs",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/meatballs.jpg"
+},
+{
+"protein": 2,
+"calories": 930,
+"description": "The best appetizer there is.\nDon't @ me.",
+"id": 11,
+"carbs": 32,
+"price": 6.99,
+"name": "Mozzarella Sticks",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/mozzarella-sticks.jpg"
+},
+{
+"protein": 28,
+"calories": 725,
+"price": 10.99,
+"id": 12,
+"description": "These look incredible. That's it. That's the description.",
+"carbs": 28,
+"name": "Philly Cheesesteak Sliders",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/philly-cheesesteak-sliders.jpg"
+},
+{
+"protein": 2,
+"calories": 270,
+"description": "How did these even make the menu???",
+"price": 5.99,
+"carbs": 4,
+"id": 13,
+"name": "Rainbow Spring Rolls",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/rainbow-spring-rolls.jpg"
+},
+{
+"protein": 4,
+"calories": 850,
+"description": "I'm getting hungrier just looking at these.",
+"id": 14,
+"carbs": 42,
+"price": 12.49,
+"name": "Stuffed Shells",
+"imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/stuff-shells.jpg"
+}
+]
 }
