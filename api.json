@@ -1,0 +1,104 @@
+{
+  "request": [
+    {
+      "protein": 0,
+      "calories": 300,
+      "price": 8.99,
+      "description": "This perfectly thin cut just melts in your mouth.",
+      "carbs": 0,
+      "id": 1,
+      "name": "Cappuccino",
+      "imageURL": ""
+    },
+    {
+      "protein": 0,
+      "calories": 450,
+      "carbs": 3,
+      "price": 6.99,
+      "id": 2,
+      "name": "Latte",
+      "description": "A smooth and creamy coffee drink made with espresso and steamed milk.",
+      "imageURL": ""
+    },
+    {
+      "protein": 0,
+      "calories": 800,
+      "carbs": 22,
+      "price": 7.49,
+      "id": 3,
+      "name": "Matcha Latte",
+      "description": "A trendy green tea drink made with matcha powder and steamed milk.",
+      "imageURL": ""
+    },
+    {
+      "protein": 0,
+      "calories": 480,
+      "carbs": 19,
+      "price": 12.99,
+      "description": "These won't last 10 seconds once they hit the table.",
+      "id": 4,
+      "name": "Smoothie",
+      "imageURL": ""
+    },
+    {
+      "protein": 0,
+      "calories": 580,
+      "carbs": 14,
+      "price": 8.99,
+      "id": 5,
+      "name": "Tea",
+      "description": "A hot or cold beverage made by steeping dried tea leaves in water.",
+      "imageURL": ""
+    },
+    {
+      "protein": 0,
+      "calories": 675,
+      "carbs": 5,
+      "price": 9.99,
+      "description": "Refreshing and essential for hydration.",
+      "id": 6,
+      "name": "Water",
+      "imageURL": ""
+    },
+    {
+      "protein": 0,
+      "calories": 700,
+      "carbs": 11,
+      "price": 11.49,
+      "id": 7,
+      "name": "Espresso",
+      "description": "A strong and concentrated coffee drink made by forcing hot water through finely ground coffee beans.",
+      "imageURL": ""
+    },
+    {
+      "protein": 0,
+      "calories": 415,
+      "carbs": 29,
+      "price": 8.29,
+      "id": 8,
+      "name": "Hot Chocolate",
+      "description": "A sweet and comforting drink made with cocoa powder, sugar, and milk.",
+      "imageURL": ""
+    },
+    {
+      "protein": 0,
+      "calories": 625,
+      "carbs": 40,
+      "price": 13.99,
+      "id": 9,
+      "name": "Iced Coffee",
+      "description": "Chilled coffee served over ice, perfect for a hot day.",
+      "imageURL": ""
+    },
+    {
+      "protein": 0,
+      "calories": 500,
+      "carbs": 2,
+      "price": 12.99,
+      "id": 10,
+      "name": "Iced Tea",
+      "description": "Chilled tea served over ice, available in various flavors.",
+      "imageURL": ""
+    }
+  ]
+}
